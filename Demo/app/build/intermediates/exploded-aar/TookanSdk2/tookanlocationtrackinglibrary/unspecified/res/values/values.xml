@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="an_error_was_procured_while_parsing">An error was procured while parsing</string>
+    <string name="an_unexpected_error_occurred">An unexpected error occurred</string>
+    <string name="app_name">TookanLocationTrackingLibrary</string>
+    <string name="connection_refused_error">Connection was refused from server</string>
+    <string name="connection_reset_error">Connection reset by peer</string>
+    <string name="connection_timed_out_error">Connection timed out</string>
+    <string name="could_not_read_from_source_text">Could not read from source</string>
+    <string name="empty"/>
+    <string name="http_error">HTTP error occurred</string>
+    <string name="internet_connectivity_issue_text">Internet connectivity issue</string>
+    <string name="no_gallery">Gallery not found in this phone.</string>
+    <string name="not_connected_to_internet_text">No Internet Connection</string>
+    <string name="please_check_internet_connectivity_text">Please check internet connectivity status</string>
+    <string name="remote_server_could_not_respond">Remote server could not respond</string>
+    <string name="remote_server_failed_error">Remote server failed to respond</string>
+    <string name="some_error_occurred">Some error occurred</string>
+    <string name="ssl_handshake_error">SSL handshake failed</string>
+    <string name="sync.error">Remote server failed to respond while syncing data</string>
+    <string name="touch.to.retry">Touch to retry</string>
+    <string name="unexpected_end_stream">Unexpected end of stream</string>
+</resources>

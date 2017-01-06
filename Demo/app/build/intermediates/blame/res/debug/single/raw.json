@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/amankaushik/Documents/GitLab/tookan-tracker-sdk-android/app/build/intermediates/res/merged/debug/raw/map_style.json",
+        "source": "/Users/amankaushik/Documents/GitLab/tookan-tracker-sdk-android/app/src/main/res/raw/map_style.json"
+    },
+    {
+        "merged": "/Users/amankaushik/Documents/Developer/Tookan Demo App/app/build/intermediates/res/merged/debug/raw/map_style.json",
+        "source": "/Users/amankaushik/Documents/Developer/Tookan Demo App/app/src/main/res/raw/map_style.json"
+    },
+    {
+        "merged": "/Users/amankaushik/Documents/Developer/Tookan Tracking/TookanSdk2/app/build/intermediates/res/merged/debug/raw/map_style.json",
+        "source": "/Users/amankaushik/Documents/Developer/Tookan Tracking/TookanSdk2/app/src/main/res/raw/map_style.json"
+    }
+]
