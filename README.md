@@ -21,7 +21,7 @@ protected void onCreate(Bundle savedInstanceState)
         tookanListener = TookanLocationListening.getInstance(MainActivity.this);  
     }
 
-    tookanListener.startLocationListening(this, jobID, MainActivity.this);
+    tookanListener.startLocationListening(this, jobID, APIKey, MainActivity.this);
 }
 
 @Override
@@ -44,6 +44,7 @@ public void onJobComplete()
 * Download the tookan-tracker.jar and add it in the libs folder of your android project.
 * Use startLocationListening() with a valid Job ID to start location tracking.
 * Use stopLocationListening() to stop tracking
+* You can obtain the API Key used in startLocationListening from your Tookan Dashboard - https://app.tookanapp.com/#/app/settings/apikey.
 
 # Requirements
 
